@@ -1,0 +1,9 @@
+fastapi
+
+uvicorn[standard]
+
+databases[postgresql]
+
+psycopg2
+
+httpx
